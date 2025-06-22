@@ -1,0 +1,3 @@
+- Usability
+- DSGVO-Konforme Speicherung und Verarbeitung von personenbezogener Daten
+- Regelmäßige Backups der Nutzerdaten

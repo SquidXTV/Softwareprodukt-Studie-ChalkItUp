@@ -9,23 +9,12 @@
   nach Spielmodi (Einzel- oder Teamspiel) filtern,
   damit ich geziehlt analysieren kann, wie meine Leistung in den verschiedenen Modi variiert.
 
-### Akzeptanzkriterien
-- Daten werden aus vergangen Spielen berechnet
-- Die Statistik zeigt:
-	- Siegquote
-	- Fehlerquote
-	- Break-Erfolgsrate
-- Es gibt eine visuelle Gesamtübersicht mit Filter
-- Nutzer können nach den Spielmodi 8-Ball, 9-Ball und Snooker filtern
-- Nutzer können nach der Spielart Einzel- und Teamspiel filtern
-- Statistiken können in einem Diagramm zeitlich dargestellt werden
-- Nutzer können den Zeitraum für die zeitliche Darstellung ändern
-
 ### Einschränkungen
 - Die Genauigkeit der Statistiken hängt direkt von der Qualität und Vollständigkeit der erfassten Spieldaten ab.
 
 ### Kommentare
 - Luca, 1. Szenario + 2. Szenario
+
 
 
 ## Leaderboards
@@ -40,12 +29,12 @@
   (Einzel- oder Teamspiel) filtern,
   damit ich mein Ranking spezifisch in meiner bevorzugten Disziplin analysieren kann.
 
-### Akzeptanzkriterien
-
 ### Einschränkungen
 
 ### Kommentare
 - Luca, 2. Szenario
+
+
 
 
 ## Turnier & Events
@@ -57,15 +46,6 @@
   damit meine Kollegen schnell und ohne Probleme beitreten können.
 - Als Teilnehmerin möchte ich während des Turniers einen übersichtlichen, aktuellen Turnierbaum oder Spielplan sehen,
   damit ich jederzeit weiß, wer wann spielt und wie weit das Turnier fortgeschritten ist.
-
-### Akzeptanzkriterien
-- Es gibt ein Menü zum Erstellen eines neuen Turniers
-- Man kann Turnierdetails wie Name, Datum, Ort, Spielmodus und Spielart angeben
-- Bevor das Turnier losgeht kann es bearbeitet oder gelöscht werden
-- Nach der Erstellung können Teilnehmer über einen automatisch erstelleten Link oder QR-Code beitreten
-- Der Ersteller erhält Benachrichtigungen, wenn Teilnehmer beitreten
-- Nach dem Starten kann ein Turnierbaum angezeigt werden
-- Nach jedem Spiel wird der Turnierbaum aktualisiert
 
 ### Einschränkungen
 
