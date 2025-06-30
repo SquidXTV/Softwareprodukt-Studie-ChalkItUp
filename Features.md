@@ -2,15 +2,15 @@
 
 ### Beschreibung
 - Als Billardspieler möchte ich eine visuelle Übersicht über meine Siegquote, Fehlerquote und Break-Erfolgsrate,
-  damit ich geziehlt an meinen Schwächen arbeiten kann.
+  damit ich gezielt an meinen Schwächen arbeiten kann.
 - Als Billardspieler möchte ich meine Statistiken im zeitlichen Verlauf anzeigen lassen,
   damit meine Entwicklung besser nachvollziehen kann.
 - Als Billardspieler möchte ich meine Statistiken nach Spielart (8-Ball, 9-Ball und Snooker) und 
   nach Spielmodi (Einzel- oder Teamspiel) filtern,
-  damit ich geziehlt analysieren kann, wie meine Leistung in den verschiedenen Modi variiert.
+  damit ich gezielt analysieren kann, wie meine Leistung in den verschiedenen Modi variiert.
 
 ### Einschränkungen
-- Die Genauigkeit der Statistiken hängt direkt von der Qualität und Vollständigkeit der erfassten Spieldaten ab.
+- Die Genauigkeit der Statistiken hängt von der Qualität und Vollständigkeit der erfassten Spieldaten ab.
 
 ### Kommentare
 - Luca, 1. Szenario + 2. Szenario

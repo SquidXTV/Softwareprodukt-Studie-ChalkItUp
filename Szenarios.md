@@ -70,4 +70,3 @@
     sie eine PDF-Version, die sie am nächsten Morgen in den Teamchat stellt. Zusätzlich aktiviert sie die Feedbackfunktion der App, sodass alle
     Teilnehmenden eine kurze Umfrage erhalten. Für Pauline ist das eine einfache Möglichkeit, zu erfahren, ob das Event gut ankam und was sie beim
     nächsten Mal vielleicht besser machen kann. Gerade für regelmäßige Teamevents ist das für sie eine große Hilfe.
-
